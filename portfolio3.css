@@ -74,11 +74,11 @@ hr.style2 {
 }
 #profilePicc{ /* img is not a block element so you must do display:block first in order to move it!!!!!*/
   display: block;
-  margin: 5% 35%;
   border-radius: 15px;
 }
 .please{
   max-width: 70%;
+  height: auto;
   margin: 20px 20px 20px 20px;
 }
 #proj1{
